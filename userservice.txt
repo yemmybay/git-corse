@@ -1,2 +1,2 @@
-this is a ussr service
+this is a user service
 i am glad i am making progress
